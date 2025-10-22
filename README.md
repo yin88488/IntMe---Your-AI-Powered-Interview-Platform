@@ -1,5 +1,15 @@
 # IntMe----Your-AI-Powered-Interview-Platform
 
+<p align="center">
+  <a href="https://intme-ai-interview-platform.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-IntMe-blue?logo=google-chrome" alt="Website"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://youtu.be/LhA3m5sSw00">
+    <img src="https://img.shields.io/badge/Demo-YouTube-red?logo=youtube" alt="Demo Video"/>
+  </a>
+</p>
+
 **IntMe** is an AI-powered interview platform designed for fair, efficient, and human-centered interviews.  
 This repository contains **the frontend part only**, focusing on **interaction logic**, **component structure**, and **UI/UX design**.
 
