@@ -1,4 +1,4 @@
-# IntMe----Your-AI-Powered-Interview-Platform
+# IntMe---Your AI-Powered Interview Platform
 
 <p align="center">
   <a href="https://intme-ai-interview-platform.vercel.app/">
